@@ -1,0 +1,37 @@
+There are two issues one may have when faced with the question of whether the document of x bytes one is sending is big:
+
+1. Is something big and relative to what? 
+
+In most cases, relative to another document. But then sometimes a document becomes too large to send or something is so big that is slowing down other things. What size is big then. You can compare it to the space your harddrive has in total. Probably, compared to the size of your harddrive the document is small. So relative to the document your harddrive is big. But is it actually a big haddrive? And so on it goes.
+
+2. Then there are terms we hear: 1/2 terrabyte solid state harddisk (this we often see as big) and 16 Ghz Ram; is that fast or is that slow. The problem we have with understanding these magnitudes is a slightly different one. We need to understand what the measures of these things we are looking at. Once we have done that, it will become much easier to move to the first set of questions to understand these sizes. But we understand more in the sense of what they are capable of doing.
+
+IDEA: can include different direction of harware sizes --> to micro, nano....
+
+## What are bits and bytes?
+
+### what are they made of, are they measures, how can they be composed to be further measures of greater or smaller magnitudes
+
+## ECODING how is this connected to bits and bytes and why does it often cause problems?
+
+## Bits and Bytes and Entropy
+
+## Bit speed - is there such a thing? Or where does the speed come in?
+
+## How are bits and bytes connected to memory, processing and coding?
+
+## Different numbers: e.g. integer64
+
+## Different ways of storing numbers: the hows and the whys
+
+## Hexidecimal values
+
+## pixels
+
+## other measures related to computers
+
+
+
+
+
+
